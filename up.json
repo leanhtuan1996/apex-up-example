@@ -1,0 +1,7 @@
+{
+  "name": "apex-up-example",
+  "profile": "default",
+  "regions": [
+    "ap-southeast-1"
+  ]
+}
